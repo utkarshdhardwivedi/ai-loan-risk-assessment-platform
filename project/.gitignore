@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+venv/
+.env
+loan_platform.db
+*.egg-info/
+.DS_Store
